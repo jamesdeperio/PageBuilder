@@ -1,3 +1,7 @@
+[![Release](https://jitpack.io/v/jamesdeperio/PageBuilder.svg)](https://jitpack.io/#jamesdeperio/PageBuilder)
+[![GitHub release](https://img.shields.io/github/release/jamesdeperio/PageBuilder.svg)](https://GitHub.com/jamesdeperio/PageBuilder/releases/)
+[![GitHub tag](https://img.shields.io/github/tag/jamesdeperio/PageBuilder.svg)](https://GitHub.com/jamesdeperio/PageBuilder/tags/)
+
 ## PageBuilder
 - - create carousel with less boilerplates
 ___
