@@ -28,8 +28,9 @@ ___
             addPage(title = "4", fragment = PageFragment.newInstance("PAGE 4"))
         }
 ```
-#### java
-```java
+or
+
+```kotlin
 PageBuilder.build(fragmentManager = supportFragmentManager) {
             this.viewPager = view_pager
             this.tabLayout = tab_layout // optional / null by default
